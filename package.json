@@ -1,6 +1,4 @@
 {
-  "name": "no-more",
-  "version": "0.0.0",
   "private": true,
   "packageManager": "pnpm@7.12.0",
   "scripts": {
